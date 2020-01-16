@@ -13,3 +13,8 @@ If you use this tool or dataset cite this paper.
 * **Rajenthiran Jenarthanan**
 
 See also the list of [contributors](https://github.com/Jenarthanan14/Tamil-Sinhala-Emotion-Analysis/contributors) who participated in this project.
+
+## Acknowledgments
+
+* Senate Research Committee (SRC) Grant funds awarded by the University of Moratuwa and funds from the Department of Official Languages of Sri Lanka
+* [R. Sridhar et al.](http://www.infitt.org/ti2014/papers/035_Rajeswari_sridhat_final.pdf) research help to generate morphological keywords
